@@ -1,0 +1,5 @@
+Summary:
+connected static content
+added routes for this app to respond to
+in routes file, defined routes we wanted our app to respond to, using a router object
+using the controller module, told it how to handle these routes
